@@ -9,21 +9,6 @@ La intrusión en servidores con datos personales constituye una **violación de 
 | **Falta de Notificación/Comunicación de la Violación** | **Infracción Grave** [1]. Incluye la no atención o **impedimento reiterado** de los derechos de los afectados [9]. | Multas de hasta 10.000.000 EUR o 2% del volumen de negocio. | [BOE-A-2018-16673](https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673) (Art. 74.k, 74.r, 74.s). |
 | **Consecuencias Civiles (Indemnización)** | Derecho del afectado a resarcimiento. | Indemnización por **daños y perjuicios materiales o inmateriales** sufridos como consecuencia de la infracción del RGPD [10, 11]. | [CELEX_32016R0679_ES_TXT](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A32016R0679) (Art. 82.1, 82.2). |
 
-## 4. Medidas Adicionales y Salvaguarda Legal
-
-* **Medidas Correctivas:** La autoridad de control puede ordenar la **limitación temporal o definitiva del tratamiento**, incluida su **prohibición** [12], o el **bloqueo cautelar de los datos** y la cesación de su tratamiento [12, 13].
-* **Publicidad de Sanciones:** Las sanciones impuestas a personas jurídicas que superen el **millón de euros** por infracciones muy graves se **publicarán en el BOE** [14].
-* **Salvaguarda:** La protección de los **datos de carácter personal** se entiende **sin perjuicio** de otras disposiciones legales que afecten a la estructura o contenido de las bases de datos, como el derecho de autor o el derecho *sui generis* sobre bases de datos [15, 16]. La Ley de Propiedad Intelectual también establece protección para los **programas de ordenador** (software de servidor) [17, 18].
-
----
-
-**Referencias de Origen (Legislación Consolidada)**
-
-* **Reglamento General de Protección de Datos (RGPD):** [CELEX_32016R0679_ES_TXT.pdf](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A32016R0679)
-* **Ley Orgánica de Protección de Datos y garantía de los derechos digitales (LOPDGDD):** [BOE-A-2018-16673-consolidado.pdf](https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673)
-* **Ley de Propiedad Intelectual:** [BOE-A-1996-8930-consolidado.pdf](https://www.boe.es/buscar/act.php?id=BOE-A-1996-8930)
-* **Esquema Nacional de Seguridad (ENS):** [BOE-A-2022-7191-consolidado.pdf](https://www.boe.es/buscar/act.php?id=BOE-A-2022-7191)
-
 ---
 
 # CASO PRÁCTICO: Consecuencias de la Intrusión en Servidores con Datos de Salud
