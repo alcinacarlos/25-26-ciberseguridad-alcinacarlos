@@ -1,0 +1,45 @@
+
+Active Connections
+
+  Proto  Local Address          Foreign Address        State           PID
+  TCP    0.0.0.0:80             0.0.0.0:0              LISTENING       4
+  TCP    0.0.0.0:135            0.0.0.0:0              LISTENING       800
+  TCP    0.0.0.0:445            0.0.0.0:0              LISTENING       4
+  TCP    0.0.0.0:2103           0.0.0.0:0              LISTENING       1472
+  TCP    0.0.0.0:2105           0.0.0.0:0              LISTENING       1472
+  TCP    0.0.0.0:2107           0.0.0.0:0              LISTENING       1472
+  TCP    0.0.0.0:3389           0.0.0.0:0              LISTENING       1096
+  TCP    0.0.0.0:49152          0.0.0.0:0              LISTENING       428
+  TCP    0.0.0.0:49153          0.0.0.0:0              LISTENING       860
+  TCP    0.0.0.0:49154          0.0.0.0:0              LISTENING       312
+  TCP    0.0.0.0:49155          0.0.0.0:0              LISTENING       1472
+  TCP    0.0.0.0:49156          0.0.0.0:0              LISTENING       524
+  TCP    0.0.0.0:49157          0.0.0.0:0              LISTENING       1712
+  TCP    0.0.0.0:49158          0.0.0.0:0              LISTENING       536
+  TCP    172.26.0.86:139        0.0.0.0:0              LISTENING       4
+  TCP    172.26.0.86:1801       0.0.0.0:0              LISTENING       1472
+  TCP    172.26.0.86:49162      10.28.5.1:8081         SYN_SENT        2944
+  TCP    172.26.0.86:49163      10.28.5.1:53           SYN_SENT        1448
+  TCP    [::]:80                [::]:0                 LISTENING       4
+  TCP    [::]:135               [::]:0                 LISTENING       800
+  TCP    [::]:445               [::]:0                 LISTENING       4
+  TCP    [::]:2103              [::]:0                 LISTENING       1472
+  TCP    [::]:2105              [::]:0                 LISTENING       1472
+  TCP    [::]:2107              [::]:0                 LISTENING       1472
+  TCP    [::]:3389              [::]:0                 LISTENING       1096
+  TCP    [::]:49152             [::]:0                 LISTENING       428
+  TCP    [::]:49153             [::]:0                 LISTENING       860
+  TCP    [::]:49154             [::]:0                 LISTENING       312
+  TCP    [::]:49155             [::]:0                 LISTENING       1472
+  TCP    [::]:49156             [::]:0                 LISTENING       524
+  TCP    [::]:49157             [::]:0                 LISTENING       1712
+  TCP    [::]:49158             [::]:0                 LISTENING       536
+  TCP    [fe80::5560:54f2:2413:fb89%17]:1801  [::]:0                 LISTENING       1472
+  UDP    0.0.0.0:500            *:*                                    312
+  UDP    0.0.0.0:4500           *:*                                    312
+  UDP    0.0.0.0:5355           *:*                                    1096
+  UDP    172.26.0.86:137        *:*                                    4
+  UDP    172.26.0.86:138        *:*                                    4
+  UDP    [::]:500               *:*                                    312
+  UDP    [::]:4500              *:*                                    312
+  UDP    [::]:5355              *:*                                    1096
