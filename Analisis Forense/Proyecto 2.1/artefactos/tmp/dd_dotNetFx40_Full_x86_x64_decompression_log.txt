@@ -1,0 +1,15 @@
+[12/28/2018, 9:13:15] === Logging started: 2018/12/28 09:13:15 ===
+[12/28/2018, 9:13:15] Executable: C:\Users\Administrador\Desktop\dotNetFx40_Full_x86_x64.exe v4.0.30319.1
+[12/28/2018, 9:13:15] --- logging level: standard ---
+[12/28/2018, 9:13:15] Successfully bound to the ClusApi.dll
+[12/28/2018, 9:13:15] Error 0x80070424: Failed to open the current cluster
+[12/28/2018, 9:13:15] Cluster drive map: ''
+[12/28/2018, 9:13:15] Considering drive: 'C:\'...
+[12/28/2018, 9:13:15] Considering drive: 'D:\'...
+[12/28/2018, 9:13:17] Drive 'C:\' has been selected as the largest fixed drive
+[12/28/2018, 9:13:17] Directory 'C:\1ae966b9e908ba1566e10e\' has been selected for file extraction
+[12/28/2018, 9:13:17] Extracting files to: C:\1ae966b9e908ba1566e10e\
+[12/28/2018, 9:13:25] Extraction took 8.190 seconds
+[12/28/2018, 9:13:25] Executing command line: 'C:\1ae966b9e908ba1566e10e\\Setup.exe   /x86 /x64'
+[12/28/2018, 9:18:14] Exiting with result code: 0x0
+[12/28/2018, 9:18:14] === Logging stopped: 2018/12/28 09:18:14 ===

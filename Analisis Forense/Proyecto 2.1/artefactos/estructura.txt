@@ -1,0 +1,16 @@
+/mnt/vmdk
+├── $Recycle.Bin
+├── Documents and Settings -> /sysroot/Users
+├── inetpub
+├── pagefile.sys
+├── PerfLogs
+├── ProgramData
+├── Program Files
+├── Program Files (x86)
+├── Python27
+├── Recovery
+├── System Volume Information
+├── Users
+└── Windows
+
+12 directories, 2 files

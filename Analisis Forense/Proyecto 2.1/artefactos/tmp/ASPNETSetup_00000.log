@@ -1,0 +1,86 @@
+********************************************************************************
+**** Starting ASP.NET Setup at: 2018-12-28 09:17:38
+**** Registering ASP.NET isapi: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\aspnet_isapi.dll
+**** Internal flags: 0x00000404
+********************************************************************************
+
+2018-12-28 09:17:38	Starting	Stopping service: aspnet_state
+2018-12-28 09:17:38		Starting	Connecting to Service Manager
+2018-12-28 09:17:38		Success 	Connecting to Service Manager
+2018-12-28 09:17:38		Starting	Opening Service handle
+2018-12-28 09:17:38		Success 	Opening Service handle
+2018-12-28 09:17:38	Success 	Stopping service: aspnet_state
+2018-12-28 09:17:38	Starting	Changing IIS ApplicationHost.config
+2018-12-28 09:17:38	Success 	Changing IIS ApplicationHost.config
+2018-12-28 09:17:38	Starting	Pre Registration cleanup
+2018-12-28 09:17:38		Starting	Cleaning up registry
+2018-12-28 09:17:38		Success 	Cleaning up registry
+2018-12-28 09:17:38		Starting	Uninstalling performance counters
+2018-12-28 09:17:38		Success 	Uninstalling performance counters
+2018-12-28 09:17:38		Starting	Executing inf section: XSP.UninstallPerVer
+2018-12-28 09:17:38		Success 	Executing inf section: 
+2018-12-28 09:17:39		Starting	Executing inf section: AdminService.Uninstall
+2018-12-28 09:17:39		Success 	Executing inf section: 
+2018-12-28 09:17:39	Success 	Pre Registration cleanup
+2018-12-28 09:17:39	Starting	Executing inf section: XSP.InstallPerVer
+2018-12-28 09:17:39	Success 	Executing inf section: 
+2018-12-28 09:17:39	Starting	Determining if current ASP.NET isapi has the highest version
+2018-12-28 09:17:39	Success 	Determining if current ASP.NET isapi has the highest version
+2018-12-28 09:17:39	Starting	Installing WMI file:aspnet.mof
+2018-12-28 09:17:39	Success 	Installing WMI file:aspnet.mof
+2018-12-28 09:17:39	Starting	Setting ACLs on dirs and WMI
+2018-12-28 09:17:40		Starting	Getting location of Temporary ASP.Net directory
+2018-12-28 09:17:40		Success 	Getting location of Temporary ASP.Net directory
+2018-12-28 09:17:40		Starting	Setting ACLs on Temporary ASP.Net directory
+2018-12-28 09:17:40		Success 	Setting ACLs on Temporary ASP.Net directory
+2018-12-28 09:17:40		Starting	Setting ACLs on install root directory
+2018-12-28 09:17:40		Success 	Setting ACLs on install root directory
+2018-12-28 09:17:40		Starting	Setting ACLs on config directory
+2018-12-28 09:17:40		Success 	Setting ACLs on config directory
+2018-12-28 09:17:40		Starting	Grant access to WMI namespace: root\aspnet
+2018-12-28 09:17:40		Success 	Grant access to WMI namespace: root\aspnet
+2018-12-28 09:17:40	Success 	Setting ACLs on dirs and WMI
+2018-12-28 09:17:40	Starting	Install all ASP.NET Services
+2018-12-28 09:17:40		Starting	Getting credentials for the service account
+2018-12-28 09:17:40		Success 	Getting credentials for the service account
+2018-12-28 09:17:40		Starting	Connecting to Service Manager
+2018-12-28 09:17:40		Success 	Connecting to Service Manager
+2018-12-28 09:17:40		Starting	aspnet_state
+2018-12-28 09:17:40		Success 	aspnet_state
+2018-12-28 09:17:40		Starting	Reading various service settings for: aspnet_state
+2018-12-28 09:17:40		Success 	Reading various service settings for: aspnet_state
+2018-12-28 09:17:40		Starting	Executing inf section: StateService.Uninstall
+2018-12-28 09:17:40		Success 	Executing inf section: 
+2018-12-28 09:17:41		Starting	Executing inf section: StateService.Install
+2018-12-28 09:17:41		Success 	Executing inf section: 
+2018-12-28 09:17:41		Starting	Locking service database
+2018-12-28 09:17:41		Success 	Locking service database
+2018-12-28 09:17:41		Starting	Opening Service handle
+2018-12-28 09:17:42		Success 	Opening Service handle
+2018-12-28 09:17:42		Starting	Writing back various service settings for: aspnet_state
+2018-12-28 09:17:42		Success 	Writing back various service settings for: aspnet_state
+2018-12-28 09:17:42		Starting	Changing service account and password
+2018-12-28 09:17:42		Success 	Changing service account and password
+2018-12-28 09:17:42	Success 	Install all ASP.NET Services
+2018-12-28 09:17:42	Starting	Executing inf section: MmcAspNetExtCOMComponents.Install
+2018-12-28 09:17:42	Success 	Executing inf section: MmcAspNetExtCOMComponents.Install
+2018-12-28 09:17:42	Starting	Install the ASP.NET Performance counters
+2018-12-28 09:17:43	Success 	Install the ASP.NET Performance counters
+2018-12-28 09:17:43	Starting	Install common performance counters
+2018-12-28 09:17:44	Success 	Install common performance counters
+2018-12-28 09:17:44	Starting	Setting up client script files for website:*
+2018-12-28 09:17:44		Starting	Getting all client file dirs and paths
+2018-12-28 09:17:44		Success 	Getting all client file dirs and paths
+2018-12-28 09:17:44		Starting	Creating list of client site scripts dirs
+2018-12-28 09:17:44			Starting	Creating directory: C:\inetpub\wwwroot\aspnet_client
+2018-12-28 09:17:44			Success 	Creating directory: C:\inetpub\wwwroot\aspnet_client
+2018-12-28 09:17:44			Starting	Creating directory: C:\inetpub\wwwroot\aspnet_client\system_web
+2018-12-28 09:17:44			Success 	Creating directory: C:\inetpub\wwwroot\aspnet_client\system_web
+2018-12-28 09:17:44			Starting	Creating directory: C:\inetpub\wwwroot\aspnet_client\system_web\4_0_30319
+2018-12-28 09:17:44			Success 	Creating directory: C:\inetpub\wwwroot\aspnet_client\system_web\4_0_30319
+2018-12-28 09:17:44		Success 	Creating list of client site scripts dirs
+2018-12-28 09:17:44		Starting	Copy the client side script or web admin files to a list of directories.
+2018-12-28 09:17:44		Success 	Copy the client side script or web admin files to a list of directories.
+2018-12-28 09:17:44	Success 	Setting up client script files for website:*
+2018-12-28 09:17:44	Starting	Starting service: aspnet_state
+2018-12-28 09:17:44	Success 	Starting service: aspnet_state
